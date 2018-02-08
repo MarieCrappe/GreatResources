@@ -41,6 +41,17 @@ https://www.php-fig.org/psr/
 [Definition & more to come]
 *"There's an art and a science to transforming unmaintainable code into elegant simplicity. It takes practice, experimentation, and deep thought."* (quote from Exercism.io)
 
+### Test Driven Development (TDD)
+Test-Driven Development (TDD) is a practice that has become mainstream over the past decade or so.
+
+There are many good reasons to do TDD. Here are a few:
+
+* It helps you focus on smaller pieces at a time.
+* It protects you against accidentally breaking things later.
+* It makes it a little more likely that you'll write simpler code... because complicated code is ridiculously hard to test.
+There are great conference talks and blog posts about TDD (how to do it, why to do it, how people do it wrong, etc, etc, etc).
+
+### Reading list
 Those a GREAT books :
 - Software Craftmanship
 - Clean Code
