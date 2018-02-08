@@ -36,10 +36,14 @@ Exercism provides exercises in the format of mini-quests in over 30 different la
 - PHP-FIG (PHP Standards Recommendations) :
 https://www.php-fig.org/psr/
 
-## Software Craftmanship
+## Programming & Software Craftmanship
 *Master the art of clean code!*
 [Definition & more to come]
 *"There's an art and a science to transforming unmaintainable code into elegant simplicity. It takes practice, experimentation, and deep thought."* (quote from Exercism.io)
+
+### Command Line
+- **Learn Enough Command Line to Be Dangerous** by Michael Hartl : https://www.learnenough.com/command-line-tutorial
+A tutorial introduction to the Unix command line
 
 ### Test Driven Development (TDD)
 Test-Driven Development (TDD) is a practice that has become mainstream over the past decade or so.
