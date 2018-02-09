@@ -38,8 +38,13 @@ https://www.php-fig.org/psr/
 
 ## Programming & Software Craftmanship
 *Master the art of clean code!*
+
 [Definition & more to come]
+
 *"There's an art and a science to transforming unmaintainable code into elegant simplicity. It takes practice, experimentation, and deep thought."* (quote from Exercism.io)
+
+- The GitHub guide to master Markdown, simple and super useful :
+https://guides.github.com/features/mastering-markdown/
 
 ### Command Line
 - **Learn Enough Command Line to Be Dangerous** by Michael Hartl : https://www.learnenough.com/command-line-tutorial
