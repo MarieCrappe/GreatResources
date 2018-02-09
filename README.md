@@ -73,3 +73,4 @@ Those a GREAT books :
 
 ## Small Everyday Hacks
 - **How to send emails with Gmail using Python** : http://stackabuse.com/how-to-send-emails-with-gmail-using-python/
+- **Twitter Follow Bot** : https://github.com/rhiever/TwitterFollowBot A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
