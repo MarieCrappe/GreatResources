@@ -3,6 +3,11 @@
 
 ## Artificial Intelligence
 
+### Data Science 
+- Comprehensive GitHub repository about Voronoi diagrams : https://github.com/d3/d3-voronoi
+![Image of Voronoi Diagram for US airports](https://github.com/MarieCrappe/GreatResources/images/voronoi.png)
+- Cool interactive demonstration of Voronoi Tesselation : https://bl.ocks.org/mbostock/4060366
+
 ### Machine Learning - General
 
 - **A Visual Introduction to Machine Learning** : http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
