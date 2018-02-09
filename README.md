@@ -5,7 +5,7 @@
 
 ### Data Science 
 - Comprehensive GitHub repository about Voronoi diagrams : https://github.com/d3/d3-voronoi
-![Image of Voronoi Diagram for US airports](https://github.com/MarieCrappe/GreatResources/images/voronoi.JPG)
+![Image of Voronoi Diagram for US airports](https://github.com/MarieCrappe/GreatResources/tree/master/images/voronoi.JPG)
 - Cool interactive demonstration of Voronoi Tesselation : https://bl.ocks.org/mbostock/4060366
 
 ### Machine Learning - General
