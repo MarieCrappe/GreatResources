@@ -4,9 +4,10 @@
 ## Artificial Intelligence
 
 ### Data Science 
-- Comprehensive GitHub repository about Voronoi diagrams : https://github.com/d3/d3-voronoi
-![Image of Voronoi Diagram for US airports](https://github.com/MarieCrappe/GreatResources/tree/master/images/voronoi.JPG)
-- Cool interactive demonstration of Voronoi Tesselation : https://bl.ocks.org/mbostock/4060366
+- Comprehensive GitHub repository about **Voronoi diagrams** : https://github.com/d3/d3-voronoi
+![Image of Voronoi Diagram for US airports]
+(https://github.com/MarieCrappe/GreatResources/tree/master/images/voronoi.JPG)
+- **Cool interactive demonstration of Voronoi Tesselation** : https://bl.ocks.org/mbostock/4060366
 
 ### Machine Learning - General
 
@@ -17,10 +18,10 @@ One of the best webpages I know to introduce Machine Learning to newbies, a smal
 https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
 
 ### Neural Networks
-- Great tool to better understand what is a neural network :
+- Great tool to better understand what is a **neural network** :
 http://playground.tensorflow.org/
 
-- Blog with really cool & precise articles about Deep Learning :
+- Blog with really cool & precise articles about **Deep Learning** :
 https://adeshpande3.github.io/
 
 - Good article about **Transfer Learning in Tensorflow** (Feb. 2017) :
@@ -38,7 +39,7 @@ Exercism provides exercises in the format of mini-quests in over 30 different la
 [Coming soon]
 
 ### PHP
-- PHP-FIG (PHP Standards Recommendations) :
+- PHP-FIG = **PHP Standards Recommendations** :
 https://www.php-fig.org/psr/
 
 ## Programming & Software Craftmanship
@@ -48,7 +49,7 @@ https://www.php-fig.org/psr/
 
 *"There's an art and a science to transforming unmaintainable code into elegant simplicity. It takes practice, experimentation, and deep thought."* (quote from Exercism.io)
 
-- The GitHub guide to master Markdown, simple and super useful :
+- **The GitHub guide to master Markdown**, simple and super useful :
 https://guides.github.com/features/mastering-markdown/
 
 ### Command Line
@@ -67,5 +68,8 @@ There are great conference talks and blog posts about TDD (how to do it, why to 
 
 ### Reading list
 Those a GREAT books :
-- Software Craftmanship
-- Clean Code
+- *Software Craftmanship*
+- *Clean Code*
+
+## Small Everyday Hacks
+- **How to send emails with Gmail using Python** : http://stackabuse.com/how-to-send-emails-with-gmail-using-python/
