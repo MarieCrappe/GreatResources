@@ -4,6 +4,7 @@
 ## Artificial Intelligence
 
 ### Data Science 
+- **Learning and the Curse of Dimensionality**, a course by Stéphane Mallat et Collège de France (in French only) : http://www.college-de-france.fr/site/en-stephane-mallat/course-2017-2018.htm
 - Comprehensive GitHub repository about **Voronoi diagrams** : https://github.com/d3/d3-voronoi
 ![Image of Voronoi Diagram for US airports]
 (https://github.com/MarieCrappe/GreatResources/tree/master/images/voronoi.JPG)
