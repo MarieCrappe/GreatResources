@@ -75,3 +75,5 @@ Those a GREAT books :
 ## Small Everyday Hacks
 - **How to send emails with Gmail using Python** : http://stackabuse.com/how-to-send-emails-with-gmail-using-python/
 - **Twitter Follow Bot** : https://github.com/rhiever/TwitterFollowBot A Python bot that automates several actions on Twitter, such as following users and favoriting tweets.
+- Want to get your hands a bit dirty ? Try to implement this cool **data pipeline for Twitter using the Elastic Stack** (Elasticsearch, Logstash and Kibana) : https://github.com/TheRinger/ELK_twitter
+You'll get beautiful, quick and easy-to-use dashboards with those tools !
