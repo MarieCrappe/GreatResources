@@ -4,10 +4,11 @@
 ## Artificial Intelligence
 
 ### Data Science 
-- **Learning and the Curse of Dimensionality**, a course by Stéphane Mallat et Collège de France (in French only) : http://www.college-de-france.fr/site/en-stephane-mallat/course-2017-2018.htm
-- Comprehensive GitHub repository about **Voronoi diagrams** : https://github.com/d3/d3-voronoi
-![Image of Voronoi Diagram for US airports]
+- **Learning and the Curse of Dimensionality**, a course by Stéphane Mallat at Collège de France (in French only) : http://www.college-de-france.fr/site/en-stephane-mallat/course-2017-2018.htm
+
+- Comprehensive GitHub repository about **Voronoi diagrams** : https://github.com/d3/d3-voronoi 
 (https://github.com/MarieCrappe/GreatResources/tree/master/images/voronoi.JPG)
+
 - **Cool interactive demonstration of Voronoi Tesselation** : https://bl.ocks.org/mbostock/4060366
 
 ### Machine Learning - General
@@ -27,6 +28,8 @@ https://adeshpande3.github.io/
 
 - Good article about **Transfer Learning in Tensorflow** (Feb. 2017) :
 https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
+
+- Wondering how the **number of parameters of a neural network** can be computed ? Here is a good explanation for that : https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network
 
 ## Programming Languages
 *Good references to learn, practice and stay up-to-date with different programming languages.*
