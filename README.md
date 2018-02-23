@@ -19,6 +19,8 @@ One of the best webpages I know to introduce Machine Learning to newbies, a smal
 - **Machine Learning Algorithms Cheat Sheet** :
 https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
 
+- [French only] **Apprentissage, réseaux de neurones et modèles graphiques** (Cours du Cnam RCP209) : http://cedric.cnam.fr/vertigo/Cours/ml2
+
 ### Neural Networks
 - Great tool to better understand what is a **neural network** :
 http://playground.tensorflow.org/
@@ -30,6 +32,8 @@ https://adeshpande3.github.io/
 https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
 
 - Wondering how the **number of parameters of a neural network** can be computed ? Here is a good explanation for that : https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network
+
+- [French only] **Reconnaissance des formes et méthodes neuronales** (Cours du Cnam RCP208) : http://cedric.cnam.fr/vertigo/Cours/ml
 
 ## Programming Languages
 *Good references to learn, practice and stay up-to-date with different programming languages.*
