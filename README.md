@@ -31,6 +31,8 @@ https://adeshpande3.github.io/
 - Good article about **Transfer Learning in Tensorflow** (Feb. 2017) :
 https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
 
+- **Unsupervised Feature Learning and Deep Learning**, tutorial from Stanford containing a final chapter about **Self-Taught Learning** : http://ufldl.stanford.edu/tutorial/
+
 - Wondering how the **number of parameters of a neural network** can be computed ? Here is a good explanation for that : https://stackoverflow.com/questions/42786717/how-to-calculate-the-number-of-parameters-for-convolutional-neural-network
 
 - [French only] **Reconnaissance des formes et méthodes neuronales** (Cours du Cnam RCP208) : http://cedric.cnam.fr/vertigo/Cours/ml
