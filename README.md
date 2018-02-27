@@ -37,6 +37,12 @@ https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
 
 - [French only] **Reconnaissance des formes et méthodes neuronales** (Cours du Cnam RCP208) : http://cedric.cnam.fr/vertigo/Cours/ml
 
+### Generative Adversarial Networks 
+Generative Adversearial Networks (GANs) are quite interesting as they are unsupervised machine learning algorithms, actually using neural networks. Here are two companies using them for their products : 
+- http://hackrod.com/
+- https://www.autodesk.com/solutions/generative-design
+- More interesting stuff about GANs will come ;-)
+
 ## Programming Languages
 *Good references to learn, practice and stay up-to-date with different programming languages.*
 
