@@ -37,11 +37,24 @@ https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
 
 - [French only] **Reconnaissance des formes et méthodes neuronales** (Cours du Cnam RCP208) : http://cedric.cnam.fr/vertigo/Cours/ml
 
+- An open source toolkit for **Computer Vision** : https://github.com/tryolabs/luminoth
+
+- Image Augmentation for Deep Learning with Keras : https://machinelearningmastery.com/image-augmentation-deep-learning-keras/
+
+- TensorFlow Image Recognition on a Raspberry Pi : https://svds.com/tensorflow-image-recognition-raspberry-pi/
+
 ### Generative Adversarial Networks 
 Generative Adversearial Networks (GANs) are quite interesting as they are unsupervised machine learning algorithms, actually using neural networks. Here are two companies using them for their products : 
 - http://hackrod.com/
 - https://www.autodesk.com/solutions/generative-design
 - More interesting stuff about GANs will come ;-)
+
+### Anomaly Detection
+- Machine Learning to Detect Anomalies from Application Logs : https://www.druva.com/blog/machine-learning-detect-anomalies-application-logs/
+- A Machine Learning Approach to Log Analytics : https://logz.io/blog/machine-learning-log-analytics/
+- Research Paper "Applying machine learning to software fault-proneness prediction" :  https://www.sciencedirect.com/science/article/pii/S0164121207001240
+- Evaluating Failure Prediction Models for Predictive Maintenance (Microsoft) : https://blogs.technet.microsoft.com/machinelearning/2016/04/19/evaluating-failure-prediction-models-for-predictive-maintenance/
+
 
 ## Programming Languages
 *Good references to learn, practice and stay up-to-date with different programming languages.*
