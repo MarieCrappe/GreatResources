@@ -60,6 +60,7 @@ Generative Adversearial Networks (GANs) are quite interesting as they are unsupe
 - A Machine Learning Approach to Log Analytics : https://logz.io/blog/machine-learning-log-analytics/
 - Research Paper "Applying machine learning to software fault-proneness prediction" :  https://www.sciencedirect.com/science/article/pii/S0164121207001240
 - Evaluating Failure Prediction Models for Predictive Maintenance (Microsoft) : https://blogs.technet.microsoft.com/machinelearning/2016/04/19/evaluating-failure-prediction-models-for-predictive-maintenance/
+- An open source project for anomaly detection : https://medium.com/@ment_at/datastream-io-open-source-anomaly-detection-64db282735e0
 
 
 ## Programming Languages
