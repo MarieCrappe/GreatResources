@@ -43,6 +43,12 @@ https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
 
 - TensorFlow Image Recognition on a Raspberry Pi : https://svds.com/tensorflow-image-recognition-raspberry-pi/
 
+- Tutorial on Hardware Architectures for Deep Neural Networks : http://eyeriss.mit.edu/tutorial.html
+
+- Implementing a Neural Network from scratch in Python : http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
+
+- And for the fun, the project Audio to Obama "Synthesizing Obama: Learning Lip Sync from Audio" : https://grail.cs.washington.edu/projects/AudioToObama/
+
 ### Generative Adversarial Networks 
 Generative Adversearial Networks (GANs) are quite interesting as they are unsupervised machine learning algorithms, actually using neural networks. Here are two companies using them for their products : 
 - http://hackrod.com/
