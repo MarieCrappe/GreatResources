@@ -88,6 +88,8 @@ https://www.php-fig.org/psr/
 - **The GitHub guide to master Markdown**, simple and super useful :
 https://guides.github.com/features/mastering-markdown/
 
+- **How to resolve conflicts with git** : https://help.github.com/articles/resolving-a-merge-conflict-using-the-command-line/
+
 ### Command Line
 - **Learn Enough Command Line to Be Dangerous** by Michael Hartl : https://www.learnenough.com/command-line-tutorial
 A tutorial introduction to the Unix command line
